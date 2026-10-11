@@ -80,18 +80,6 @@ An academia–industry collaboration portal built for **Smart India Hackathon 20
 
 ---
 
-### [ISTE HIT SC — Annual Convention 3.0](https://github.com/AbhiAditya02/AnnualConvention)
-
-An official event website built for the **ISTE Student Chapter, Haldia Institute of Technology**.
-
-- 🔗 **Live website:** [ac.istehitsc.com](https://ac.istehitsc.com)
-- ⚡ Built with **Next.js 15** and **React 19**.
-- 🎞 Uses GSAP animations and Lenis smooth scrolling for interactive experiences.
-- 🖼 Integrates Cloudinary for gallery image delivery.
-- 🧩 Uses reusable React components and modular styling.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
